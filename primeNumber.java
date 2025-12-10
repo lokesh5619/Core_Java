@@ -1,5 +1,5 @@
 // Prime number programme in java 
-class Demo9
+class primeNumber
 {	
 	public static void main(String ar[])
 	{ 
