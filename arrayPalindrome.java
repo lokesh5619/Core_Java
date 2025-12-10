@@ -13,7 +13,6 @@ class arrayPalindrome
 
 		for(int i=0; i<y.length; i++)
 		{
-			// System.out.println("y= "+y[i]);
 			if(x[i] != y[i])
 			{
 				z=false;
