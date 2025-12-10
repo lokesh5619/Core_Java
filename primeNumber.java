@@ -8,19 +8,12 @@ class primeNumber
 	    int c=1;
 	    for(i=2; i<n; i++)
 	    {
-	    	if(n%i==0)
-		    {
-		    	c=0;
-		    }
+	    	if(n%i==0)c=0;
 	    }
 	    if(c==1)
-	    {
 	    	System.out.println("no. is prime");
-	    }
 	    else
-	    {
 	    	System.out.println("no. is not prime");
-	    }
 	}
 }
 	
