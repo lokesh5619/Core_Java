@@ -1,4 +1,4 @@
-// 3D Array for each loop
+// 3D array from ( for-each loop )
 class Array3 
 {
 	public static void main(String []ar)
@@ -10,6 +10,8 @@ class Array3
 			{{30,40,50,22},{40,50,60,54},{20,30,40,23}},
 			{{30,40,50,22},{40,50,60,54},{20,30,40,45}},
 		};
+
+		// For-each loop for 3D array
 		for(int i[][]:x)
 		{
 			for(int j[]:i)
